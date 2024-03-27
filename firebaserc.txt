@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "zavm07eshop"
+  }
+}
